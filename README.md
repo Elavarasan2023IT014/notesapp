@@ -21,7 +21,7 @@ The **Personal Notes API** is a RESTful API built with **Node.js**, **Express.js
 
 ## Project Structure
 ```
-personal-notes-api/
+NOTESAPP/
 ├── config/
 │   └── db.js              # MongoDB connection setup
 ├── middleware/
