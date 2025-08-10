@@ -85,7 +85,7 @@ personal-notes-api/
 
 ## API Endpoints
 
-Below is a list of all available endpoints, including HTTP methods, paths, descriptions, and example requests/responses.
+Below is a list of all available endpoints, including HTTP methods, paths, descriptions.
 
 ### Authentication Routes
 
